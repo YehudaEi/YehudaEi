@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Yehuda Eisenberg, I'm Web Developer & Security Researcher 😁
+My name is Yehuda, I'm Web Developer & Security Researcher 😁
 
 Here you will find some of the projects I have done, and contributed to 😎
 
